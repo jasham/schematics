@@ -16,3 +16,6 @@ src/utils/**/*.js
 src/utils/**/*.d.ts
 
 .DS_Store
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
